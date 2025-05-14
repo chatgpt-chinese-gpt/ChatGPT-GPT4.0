@@ -38,7 +38,7 @@
 | **镜像站名称**   | **网址**                               | **支持版本**   | **注册方式**     | **免费额度** | **特点** |
 |----------------|--------------------------------|--------------|--------------|-----------|----------|
 | **蛇语 AI**    | [snakegpt.com.cn](https://snakegpt.com.cn) | GPT-4, GPT-3.5 | 国内邮箱注册 | 有 | 稳定快速，支持 MJ 绘图 |
-| **GPT 猫**     | [chat2.chat2.gptcat.cc](https://chat2.chat2.gptcat.cc) | GPT-4o, GPT-4 | 国内邮箱注册 | 有 | 支持实时语音、视频对话 |
+| **GPT 猫**     | [gptcat.cc](https://gptcat.cc) | GPT-4o, GPT-4 | 国内邮箱注册 | 有 | 支持实时语音、视频对话 |
 | **熊猫 GPT**   | [gptpanda.net](https://gptpanda.net) | GPT-4, GPT-3.5 | 国内邮箱注册 | 有 | 高稳定性，支持 API |
 | **狗狗 GPT**   | [gptdog.online](https://gptdog.online) | GPT-3.5       | 邮箱注册    | 有 | 体验一般，推荐备用 |
 
@@ -114,4 +114,4 @@
 
 **如果您觉得本指南有帮助，欢迎分享给更多朋友！🎉**
                                                                                                                                                                                                                                                                                  
-                                                                                   
+                                                                                     
