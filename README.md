@@ -1,6 +1,6 @@
 # 无需翻墙！国内快速访问 ChatGPT 中文版完整指南（支持 GPT-4）
 
-> **更新时间： 2025/06/20**  
+> **更新时间： 2025/07/01**  
 > **ChatGPT 中文版、国内访问 ChatGPT、无需翻墙使用 ChatGPT、GPT-4 访问方式**  
 
 **想在国内使用 ChatGPT 中文版？无需翻墙，直接访问 GPT-4！本指南提供最全面的国内访问方法及使用技巧，帮你快速上手 AI 聊天！**  
@@ -37,7 +37,7 @@
 
 | **镜像站名称**   | **网址**                               | **支持版本**   | **注册方式**     | **免费额度** | **特点** |
 |----------------|--------------------------------|--------------|--------------|-----------|----------|
-| **蛇语 AI**    | [snakegpt.com.cn](https://snakegpt.com.cn) | GPT-4, GPT-3.5 | 国内邮箱注册 | 有 | 稳定快速，支持 MJ 绘图 |
+| **蛇语 AI**    | [snakegpt.vip](https://snakegpt.vip) | GPT-4, GPT-3.5 | 国内邮箱注册 | 有 | 稳定快速，支持 MJ 绘图 |
 | **GPT 猫**     | [gptcat.cc](https://gptcat.cc) | GPT-4o, GPT-4 | 国内邮箱注册 | 有 | 支持实时语音、视频对话 |
 | **熊猫 GPT**   | [gptpanda.net](https://gptpanda.net) | GPT-4, GPT-3.5 | 国内邮箱注册 | 有 | 高稳定性，支持 API |
 | **狗狗 GPT**   | [gptdog.online](https://gptdog.online) | GPT-3.5       | 邮箱注册    | 有 | 体验一般，推荐备用 |
@@ -64,7 +64,7 @@
 ## 如何快速开始使用 ChatGPT 中文版
 
 ### **方法 1：通过国内镜像网站（推荐，最简单）**
-1. 选择一个合适的 ChatGPT 中文版镜像站（如 [snakegpt.com.cn](https://snakegpt.com.cn)）。
+1. 选择一个合适的 ChatGPT 中文版镜像站（如 [snakegpt.vip](https://snakegpt.vip)）。
 2. 进行注册（大部分支持国内邮箱注册）。
 3. 选择 GPT-4 或 GPT-3.5 进行体验。
 4. 直接输入问题，与 AI 进行对话！
